@@ -5,7 +5,7 @@ public class Country {
     /**
      * the country code
      */
-    public int code;
+    public String code;
 
     /**
      * the country name
@@ -15,7 +15,7 @@ public class Country {
     /**
      * the continent where the country resides
      */
-    public enum continent{};
+    public String continent;
 
     /**
      * the region the country is located

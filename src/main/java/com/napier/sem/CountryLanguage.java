@@ -14,7 +14,7 @@ public class CountryLanguage {
     /**
      * NOT REALLY SURE
      */
-    public enum isOfficial{};
+    public String isOfficial;
 
     /**
      * percentage of people that speak it
